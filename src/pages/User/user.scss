@@ -1,0 +1,15 @@
+.users{
+    .info{
+        display: flex;
+        justify-content: space-between;
+        margin: 10px;
+        button{
+            padding: 10px;
+            background: rgba(0, 128, 0, 0.418);
+            color: white;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+        }
+    }
+}
